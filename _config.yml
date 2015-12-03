@@ -119,7 +119,7 @@ safe: false
 highlighter: pygments
 title: daniel's blog
 description: do best myself
-theme: time-machine
+theme: kunka
 disqusname: xinpengliu
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
