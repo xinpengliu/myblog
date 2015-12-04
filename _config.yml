@@ -118,7 +118,7 @@ markdown: redcarpet
 safe: false
 highlighter: pygments
 title: Daniel's blog
-description: do best myself
+description: 吃得苦中苦 方为人上人
 theme: kunka
 disqusname: xinpengliu
 
