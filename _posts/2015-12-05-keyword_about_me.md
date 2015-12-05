@@ -1,4 +1,10 @@
-#keyword about me
+---
+layout: post
+title: keyword about me
+comments: true
+category: 技术
+---
+
 ---
 音视频开发
 
