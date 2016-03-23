@@ -11,4 +11,4 @@ category: 工作
 
 #3.add tftp directory.
 
-![TheImage](www.liuxinpeng.com/images/tftp-win7.png)
+![TheImage](www.liuxinpeng.com/images/tftp.png)
