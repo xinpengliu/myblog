@@ -11,4 +11,4 @@ category: 工作
 
 #3.add tftp directory.
 
-![TheImage](www.liuxinpeng.com/images/tftp.png)
+![TheImage](https://raw.githubusercontent.com/xinpengliu/xinpengliu.github.io/master/images/tftp.png)
