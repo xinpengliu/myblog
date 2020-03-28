@@ -18,7 +18,7 @@ then
 #	echo ${filepath};
 #	echo ${filename};
 	echo  "come on,daniel!"|mutt -s "${filename}" 9999@qq.com -a ${filepath}
-	#rm ${filepath};
+	rm -rf ${filepath};
 else
 #	echo "no taskfile!";
 	echo  "come on,daniel!"|mutt -s "warning:no taskfile!" 9999@qq.com -a ${filepath}
